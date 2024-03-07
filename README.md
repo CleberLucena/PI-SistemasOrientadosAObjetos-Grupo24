@@ -30,3 +30,4 @@ Cadastro de usuários em um sistema universitário
 ***
 ### Modelo Entidade Relacionamento 
 ***
+![Modelo entidade](https://github.com/CleberLucena/PI-SistemasOrientadosAObjetos-Grupo24/blob/main/Modelo%20de%20entidade%20e%20relacionamento.png)
