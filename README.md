@@ -1,5 +1,7 @@
 # PI-SistemasOrientadosAObjetos-Grupo24
-Este trabalho tem como objetivo a aprendizagem e o desenvolvimento de novas habilidades na área de programação.
+Este trabalho tem como objetivo desenvolvimento de
+um projeto voltado a gestão de dados de um centro
+universitário.
 ***
 ### Integrantes 
 ***
