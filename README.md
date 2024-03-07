@@ -23,3 +23,8 @@ Cadastro de usuários em um sistema universitário
 ***
 ### Diagrama de caso de uso 
 ***
+![Diagrama de casos de uso](https://github.com/CleberLucena/PI-SistemasOrientadosAObjetos-Grupo24/assets/162381563/46b3ead4-8984-4021-a9ca-6a77b4115bc0)
+)
+***
+### Modelo Entidade Relacionamento 
+***
