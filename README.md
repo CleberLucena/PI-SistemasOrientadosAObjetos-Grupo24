@@ -34,4 +34,24 @@ Cadastro de usuários em um sistema universitário
 ***
 ### Prototipação 
 ***
-
+- Visão Geral
+![Visão geral](https://github.com/CleberLucena/PI-SistemasOrientadosAObjetos-Grupo24/blob/main/Vis%C3%A3o%20Geral.png)
+***
+### Tela inicial (HOME principal)
+![Tela inicial](https://github.com/CleberLucena/PI-SistemasOrientadosAObjetos-Grupo24/blob/main/Software%20de%20dados/Interfaces/Home.PNG)
+***
+### Tela Alunos
+![Alunos](https://github.com/CleberLucena/PI-SistemasOrientadosAObjetos-Grupo24/blob/main/Software%20de%20dados/Interfaces/alunos/create.PNG)
+***
+### Tela de cadastro Pessoa Fisica
+![pessoa fisica](https://github.com/CleberLucena/PI-SistemasOrientadosAObjetos-Grupo24/blob/main/Software%20de%20dados/Interfaces/Pessoa%20Fisica/create.PNG)
+***
+### Tela de cadastro Pessoa Jurídica
+![Pessoa Juridica](https://github.com/CleberLucena/PI-SistemasOrientadosAObjetos-Grupo24/blob/main/Software%20de%20dados/Interfaces/Pessoa%20juridica/create.PNG)
+***
+### Tela de cadastro dos Fornecedores 
+![Fornecedores](https://github.com/CleberLucena/PI-SistemasOrientadosAObjetos-Grupo24/blob/main/Software%20de%20dados/Interfaces/fornecedor/create.PNG)
+***
+### Tela de cadastro dos Professores
+![Professores](https://github.com/CleberLucena/PI-SistemasOrientadosAObjetos-Grupo24/blob/main/Software%20de%20dados/Interfaces/Professor/create.PNG)
+***
